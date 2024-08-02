@@ -1,0 +1,20 @@
+{
+  "name": "LibraCashCoin",
+  "symbol": "LSN",
+  "decimals": 18,
+  "description": "A description of your token",
+  "website": "https://yourwebsite.com",
+  "email": "support@yourwebsite.com",
+  "explorer": "https://bscscan.com/token/0x9a5455544e2913b38dc6a926a89e8134e6d30ec7",
+  "type": "BEP20",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/yourusername/LibraCashCoin-logo/main/images/logo.png",
+    "width": "256",
+    "height": "256",
+    "ipfs_hash": ""
+  },
+  "social": {
+    "twitter": "https://twitter.com/yourtoken",
+    "telegram": "https://t.me/yourtoken"
+  }
+}
